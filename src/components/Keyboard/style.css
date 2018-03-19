@@ -1,0 +1,19 @@
+.keyboard {
+    background-color: #F0F8FF;
+    padding: 30px;  
+}
+
+.key {
+    border: none;
+    border-radius: 4px;
+    height: 50px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
+}
+
+.test {
+    padding: 10px 10px 10px 10px;
+}
